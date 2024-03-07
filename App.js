@@ -97,7 +97,8 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginTop: 20,
-    color: '#5e5e5e'
+    color: '#5e5e5e',
+    textAlign: 'center',
   },
   content: {
     alignItems: 'center',
@@ -108,5 +109,6 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginTop: 20,
     color: '#fff',
+    textAlign: 'center',
   },
 });
